@@ -9,6 +9,7 @@ int main(void) {
     /* Declare variables here */
 
     /* Read 16 scores */
+    //hhh
 
     /* Validate input */
 
